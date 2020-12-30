@@ -1,1 +1,105 @@
-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
+CONNECT [host_port] HTTP:m.wattpad.com[split][crlf] HTTP/2.0 200 [crlf]Host:p16-va-default.akamaized.net[crlf][crlf]
+
+CONNECT [host_port] HTTP:z-p42.i.instagram.com][split][crlf] HTTP/12.2 200 ok[crlf]Host: z-p42.i.instagram.com[crlf][crlf]
+
+CONNECT [host_port] HTTP:imgur.com][split][crlf] HTTP/2.0 200 ok[crlf]Host: soundcloud.com[lf];Host: gstatic.com:443[lf]
+
+HTTP/1.1 200[crlf]Host: amazon.com[crlf]X-Online-Host: amazon.com[crlf]X-Forward-Host: amazon.com[crlf]Connection: Keep-Alive[crlf][crlf]
+
+CONNECT [host_port]@aes256-ctr hmac-256[split][crlf]HTTP/payments.gcash.com 443[crlf]Host: payments.gcash.com HTTP/1.1[crlf][crlf]
+
+CONNECT [host_port]@aes256-ctr hmac-256[split][crlf]HTTP/payments.gcash.com 443[crlf]Host: payments.gcash.com HTTP/1.1[crlf][crlf]
+
+CONNECT [host_port]@aes256-ctr hmac-256[split][lf] HTTP//? 403 [lf]Host:[rotate=URL=http2.www.yallakora.com:80;xnxx.com:80;instagram.com:80[lf]
+
+CONNECT [host_port] HTTP:www.abc.com[split][crlf] HTTP/2.0 200 [crlf]Host:espn.com
+[crlf][crlf]
+
+CONNECT [host_port] HTTP:yandex.ru[split][crlf] HTTP/2.0 200 [crlf]Host:disney.com
+[crlf][crlf]
+
+CONNECT [host_port] HTTP:speedtest.globe.com.ph[split][crlf] HTTP/2.0 200 [crlf]Host:office.com
+[crlf][crlf]
+
+CONNECT [host_port] HTTP: steamcommunity.com[split][crlf] HTTP/1.6 200 [crlf]Host: steamcommunity.com[crlf][crlf]
+
+CONNECT [host_port] HTTP:yandex.ru[split][crlf] HTTP/2.0 200 [crlf]Host:disney.com
+[crlf][crlf]
+
+
+CONNECT [host_port] HTTP:speedtest.globe.com.ph[split][crlf] HTTP/2.0 200 [crlf]Host:office.com
+[crlf][crlf]
+
+CONNECT [host_port] HTTP:commons.m.wikimedia.org][split][crlf] HTTP/2.0 200 ok[crlf]Host: commons.m.wikimedia.org[crlf][crlf]
+
+CONNECT [host_port] HTTP:commons.m.wikimedia.org][split][crlf] HTTP/2.0 200 ok[crlf]Host: commons.m.wikimedia.org[crlf][crlf]
+
+CONNECT [host_port] HTTP:commons.m.wikimedia.org][split][crlf] HTTP/2.0 200 ok[crlf]Host: commons.m.wikimedia.org[crlf][crlf]
+
+
+
+CONNECT [host_port]HTTP: ade.googlesyndication.com[split][crlf]HTTP/disney.go.com 443[crlf]Host:px.srvcs.tumblr.com[crlf][crlf]NerdyUser-PROPHIND http//0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.internet.org HTTP/static.twitchcdn.net 443[crlf]Host:imgur.com[crlf]User-Agent:[ua][crlf]Connection:Keep-Alive[crlf]Proxy-Connection:Keep-Alive[crlf]Content-Type:Application/Octet-Stream[crlf][crlf][crlf]NerdyUser11[crlf]
+
+CONNECT [host_port]HTTP: imgur.com[split][crlf]HTTP/global.fastly.net 443[crlf]Host:wikipedia.com[crlf][crlf]NerdyUser-PROPHIND http//foxsports.com HTTP/deezer.com 443[crlf]Host:reddit.com[crlf]User-Agent:[ua][crlf]Connection:Keep-Alive[crlf]Proxy-Connection:Keep-Alive[crlf]Content-Type:Application/Octet-Stream[crlf][crlf][crlf]NerdyUser11[crlf]
+
+
+CONNECT [host_port]HTTP: www.hbo.com[split][crlf]HTTP/redbull.com 443[crlf]Host:www.cbs.com[crlf][crlf]NerdyUser-PROPHIND http//9gag.com HTTP/touch.facebook.com 443[crlf]Host:cctv.com[crlf]User-Agent:[ua][crlf]Connection:Keep-Alive[crlf]Proxy-Connection:Keep-Alive[crlf]Content-Type:Application/Octet-Stream[crlf][crlf][crlf]NerdyUser11[crlf]
+
+
+
+CONNECT [host_port]HTTP: http://www.afreevatv.com/[split][crlf]HTTP/en.wikipedia.org 443[crlf]Host:www.lazada.com[crlf][crlf]NerdyUser-PROPHIND http//ph.godaddy.com HTTP/a20fb.globe.contrib.net 443[crlf]Host:sg.godaddy.com[crlf]User-Agent:[ua][crlf]Connection:Keep-Alive[crlf]Proxy-Connection:Keep-Alive[crlf]Content-Type:Application/Octet-Stream[crlf][crlf][crlf]NerdyUser11[crlf]
+
+CONNECT [host_port]HTTP: www.myspace.com[split][crlf]HTTP/cs1143.wpc.chicdn.net 443[crlf]Host:Ebay.com[crlf][crlf]NerdyUser-PROPHIND http//live.zune.net HTTP/itunes.apple.com 443[crlf]Host:imgur.com[crlf]User-Agent:[ua][crlf]Connection:Keep-Alive[crlf]Proxy-Connection:Keep-Alive[crlf]Content-Type:Application/Octet-Stream[crlf][crlf][crlf]NerdyUser11[crlf]
+
+CONNECT [host_port]HTTP: imgur.com[split][crlf]HTTP/global.fastly.net 443[crlf]Host:wikipedia.com[crlf][crlf]NerdyUser-PROPHIND http//foxsports.com HTTP/deezer.com 443[crlf]Host:reddit.com[crlf]User-Agent:[ua][crlf]Connection:Keep-Alive[crlf]Proxy-Connection:Keep-Alive[crlf]Content-Type:Application/Octet-Stream[crlf][crlf][crlf]NerdyUser11[crlf]
+
+
+
+
+APN: lube.gata.globe.internet.com.ph
+
+CONNECT [host_port]HTTP: ade.googlesyndication.com[split][crlf]HTTP/disney.go.com 443[crlf]Host:px.srvcs.tumblr.com[crlf][crlf]NerdyUser-PROPHIND http//0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.internet.org HTTP/static.twitchcdn.net 443[crlf]Host:imgur.com[crlf]User-Agent:[ua][crlf]Connection:Keep-Alive[crlf]Proxy-Connection:Keep-Alive[crlf]Content-Type:Application/Octet-Stream[crlf][crlf][crlf]NerdyUser11[crlf]
+
+
+CONNECT [host_port]HTTP: imgur.com[split][crlf]HTTP/global.fastly.net 443[crlf]Host:wikipedia.com[crlf][crlf]NerdyUser-PROPHIND http//foxsports.com HTTP/deezer.com 443[crlf]Host:reddit.com[crlf]User-Agent:[ua][crlf]Connection:Keep-Alive[crlf]Proxy-Connection:Keep-Alive[crlf]Content-Type:Application/Octet-Stream[crlf][crlf][crlf]NerdyUser11[crlf]
+
+
+CONNECT [host_port]HTTP: www.hbo.com[split][crlf]HTTP/redbull.com 443[crlf]Host:www.cbs.com[crlf][crlf]NerdyUser-PROPHIND http//9gag.com HTTP/touch.facebook.com 443[crlf]Host:cctv.com[crlf]User-Agent:[ua][crlf]Connection:Keep-Alive[crlf]Proxy-Connection:Keep-Alive[crlf]Content-Type:Application/Octet-Stream[crlf][crlf][crlf]NerdyUser11[crlf]
+
+
+CONNECT [host_port]HTTP: www.dropmb.com[split][crlf]HTTP/yandex.ru 443[crlf]Host:disney.com[crlf][crlf]NerdyUser-PROPHIND http//www.abc.com HTTP/espn.com 443[crlf]Host:vip.qq.com[crlf]User-Agent:[ua][crlf]Connection:Keep-Alive[crlf]Proxy-Connection:Keep-Alive[crlf]Content-Type:Application/Octet-Stream[crlf][crlf][crlf]NerdyUser11[crlf]
+
+
+
+
+CONNECT [host_port]HTTP: http://www.afreevatv.com/[split][crlf]HTTP/en.wikipedia.org 443[crlf]Host:www.lazada.com[crlf][crlf]NerdyUser-PROPHIND http//ph.godaddy.com HTTP/a20fb.globe.contrib.net 443[crlf]Host:sg.godaddy.com[crlf]User-Agent:[ua][crlf]Connection:Keep-Alive[crlf]Proxy-Connection:Keep-Alive[crlf]Content-Type:Application/Octet-Stream[crlf][crlf][crlf]NerdyUser11[crlf]
+
+
+
+
+CONNECT [host_port]HTTP: imgur.com[split][crlf]HTTP/global.fastly.net 443[crlf]Host:wikipedia.com[crlf][crlf]NerdyUser-PROPHIND http//foxsports.com HTTP/deezer.com 443[crlf]Host:reddit.com[crlf]User-Agent:[ua][crlf]Connection:Keep-Alive[crlf]Proxy-Connection:Keep-Alive[crlf]Content-Type:Application/Octet-Stream[crlf][crlf][crlf]NerdyUser11[crlf]
+
+
+
+CONNECT [host_port]@aes256-ctr hmac-256[split][lf] HTTP//? 403 [lf]Host: www.linetv.com[lf]
+
+
+PhilTech VPN GLOBE TM NOLOAD 1
+
+
+HTTP/1.6 8080[lf]Host: mobile.skype.com:443[lf]Connection:Keep-alive[lf]
+
+➤ Payload #1
+CONNECT [host_port][split][crlf] HTTP/2.0 200 ok[crlf]Host: soundcloud.com[lf]
+
+➤Payload #2
+CONNECT [host_port] HTTP:office.com[split][crlf] HTTP/1.6 200 [crlf]Host:office.com[crlf][crlf]
+
+➤Payload #3
+CONNECT [host_port] HTTP:amazon.com[split][crlf] HTTP/1.6 200 [crlf]Host:aol.com[crlf][crlf]
+
+➤Payload #4
+HTTP/1.6 200 [crlf]Host:Host:lost.data.skype.com.us[crlf]
+
+➤Payload #5
+CONNECT [host_port] HTTP:amazon.com][split][crlf] HTTP/1.6 200 [crlf]Host:m.twitch.tv:443[lf];is2-ssl.mzstatic.com[lf];speedtest.globe.com.ph[lf];microsoft.com[lf]
